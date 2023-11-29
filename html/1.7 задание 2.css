@@ -1,0 +1,30 @@
+#section-1{
+	background-color: #FFFFDD;
+	color: #A2C579;
+}
+#section-2{
+	background-color: #D2DE32;
+	color: #016A70;
+}
+#section-3{
+	background-color: #016A70;
+	color: #FFFFDD;
+}
+.h1{
+	font-size: 50px;
+	font-style: oblique;
+	color: #0C356A;
+}
+.h1-list{
+	font-size: 50px;
+	font-style: oblique;
+	color: #FFFFDD;
+}
+.paragraph{
+	font-size: 30px;
+	font-style: italic;
+}
+.list{
+	font-size: 30px;
+	font-style: italic;
+}
